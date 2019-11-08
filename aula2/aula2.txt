@@ -1,0 +1,31 @@
+Entradas ou saídas digitais
+
+HIGH -> 5V (ligado) (1)
+LOW -> GND (desligado) (0)
+
+_________________________________
+Variáveis:
+String (caracteres)
+Numéricas (inteiro e não inteiro)
+int
+float
+Boolean (verdadeiro ou falso)
+
+
+_________________________________
+Estruturas de controle:
+
+Condicional:
+
+if (condição){
+ //verdadeiro
+}
+
+if (condição){
+ //verdadeiro
+} else {
+ //falso
+}
+
+
+
