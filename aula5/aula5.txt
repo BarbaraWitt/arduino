@@ -1,0 +1,5 @@
+digitalWrite();  HIGH (1)    LOW (0)
+digitalRead();  HIGH (1)    LOW (0)
+
+digitalWrite(13,  !digitalRead(13));
+
