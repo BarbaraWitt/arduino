@@ -1,0 +1,14 @@
+POO - Programação orientadada a objetos:
+
+Classe modelo
+    \______ instanciar (criar) objetos
+
+- atributos (variáveis)
+- métodos (funções)
+
+Objetivo principal: Reutilização do código
+
+Dica:
+Substantivo: Objeto
+Adjetivo: Atributos
+Verbo: Métodos 
